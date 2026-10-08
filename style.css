@@ -1,4 +1,4 @@
-:root{--g:#800000;--gd:#3a0d0d;--bg:#f7f5f0;--ink:#1d2622;--ac:#b08d57}
+:root{--g:#1f3350;--gd:#0f1b2d;--bg:#f6f5f2;--ink:#1d2430;--ac:#b08d57}
 *{box-sizing:border-box;margin:0}html{scroll-behavior:smooth}
 body{font:400 17px/1.65 "Source Sans 3",system-ui,sans-serif;color:var(--ink);background:var(--bg)}
 .in{max-width:1120px;margin:0 auto;padding:0 24px}
